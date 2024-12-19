@@ -11,3 +11,4 @@
 | --------------------------------- |
 |[Introduction]()                   |
 |[Before You Start]()               |
+|[Create a DJango Project]()        |

@@ -60,3 +60,12 @@ DJango
 - [Official Django site](https://djangoproject.com)
 - [Documentation](https://docs.djangoproject.com)
 - [Official tutorial](https://djangoproject.com/en/4.2/intro)
+
+## Why create a virtual environment?
+
+- You may have multiple Python versions on your computer
+- You may have projects that require different versions of the same external package
+- Virtual environments create a "workspace" environment for a specific project
+- All installed apps are in one place, without conflicts
+- The "python" and "pip" commands point to the same place
+- Keeps your environment clean
