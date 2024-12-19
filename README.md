@@ -12,3 +12,4 @@
 |[Introduction]()                   |
 |[Before You Start]()               |
 |[Create a DJango Project]()        |
+|[Storing IP Address in SQLite]()   |

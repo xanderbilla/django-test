@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'visits.apps.VisitsConfig', # Add the visits app to the INSTALLED_APPS list
 ]
 
 MIDDLEWARE = [
